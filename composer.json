@@ -1,0 +1,24 @@
+{
+    "name": "farzinkakh/yii2-ckeditor",
+    "description": "Ckeditor widget for yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2", "extension", "ckeditor"],
+    "homepage":"https://github.com/farzinkakh/yii2-ckeditor.git",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Farzin Askarian Kakh",
+            "email": "farzinask1996@gmail.com",
+            "homepage": "https://github.com/FarzinKakh"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "ckeditor/ckeditor": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "FarzinKakh\\Yii2Ckeditor\\": "src/"
+        }
+    }
+}
