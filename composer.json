@@ -13,12 +13,12 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "*",
+        "yiisoft/yii2": "^2.0",
         "ckeditor/ckeditor": "*"
     },
     "autoload": {
         "psr-4": {
-            "FarzinKakh\\Yii2Ckeditor\\": "src/"
+            "farzinkakh\\yii2\\ckeditor\\": "src/"
         }
     }
 }

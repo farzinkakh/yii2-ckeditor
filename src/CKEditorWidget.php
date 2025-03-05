@@ -1,6 +1,6 @@
 <?php
 
-namespace farzinkakh\widgets;
+namespace farzinkakh\yii2\ckeditor;
 
 use yii\base\Widget;
 use yii\helpers\Html;
